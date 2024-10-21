@@ -1,0 +1,5 @@
+com\mycompany\programacadastroalunos\AlunoInterface.class
+com\mycompany\programacadastroalunos\Aluno.class
+com\mycompany\programacadastroalunos\AlunoImplements.class
+com\mycompany\programacadastroalunos\ConexaoBD.class
+com\mycompany\programacadastroalunos\ProgramaCadastroAlunos.class
